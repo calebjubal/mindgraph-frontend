@@ -16,24 +16,6 @@ Welcome to **MindGraph Lite**, a simple and minimal visual mind-mapping tool to 
 
 ---
 
-## 📂 Folder Structure
-
-src/
-├── App.tsx               # Main application and routes
-├── main.tsx              # React DOM rendering with router
-├── index.css             # Tailwind CSS entry
-├── components/
-│   └── layout/
-│       └── Navbar.tsx     # Navigation Bar
-├── pages/
-│   ├── Home.tsx           # Welcome / Landing page
-│   ├── Upload.tsx         # Upload files (future: graphs)
-│   └── Explore.tsx        # Browse shared mind graphs
-└── lib/
-    └── utils.ts           # (for utilities and helpers if needed)
-
----
-
 ## 🗺️ Pages Breakdown
 
 | Route         | File           | Purpose |
